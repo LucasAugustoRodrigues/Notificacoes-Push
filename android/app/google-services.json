@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40728968205",
+    "project_id": "agenda-cultural-belem-lr2",
+    "storage_bucket": "agenda-cultural-belem-lr2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40728968205:android:3450770f97311454a5a944",
+        "android_client_info": {
+          "package_name": "br.lucasrodrigues.notificacoes_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEWt0feJvZ1ejbICH9P0nRFG9klkALYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
